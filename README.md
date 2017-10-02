@@ -19,4 +19,4 @@ This assignment was a introduction to the version control program Git.
 3. Version control helps with file sharing.
 
 ## View project:
-https://pjblack21.github.io/lesson3_Versioncontrol/Lesson3_Highlights/
+https://pjblack21.github.io/lesson3_versioncontrol/index.html
